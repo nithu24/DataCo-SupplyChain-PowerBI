@@ -39,13 +39,10 @@ Executive Summary: Hover over any Market to see the Top 3 Products and order vs 
 
 Logistics Page: Use the "Shipping Efficiency Gain" slider to see how reducing late deliveries impacts the bottom line.
 
-## 📂 Project Structure
-
-Supply_Chain_Analysis.pbix: The core Power BI file.
-
-Screenshots/: Visual documentation of all 7 report pages.
-
-Data_Source_Info: Kaggle DataCo Global dataset.
-
 ## Live Dashboard
 [View on Power BI Service](https://app.powerbi.com/links/0qbuTLkdLp?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
+
+## 👤 Author ----> **Nithu Anna Ninan** 
+### 📧 [nithuanna24@gmail.com] 
+### 🔗 [http://linkedin.com/in/nithu-ninan] 
+### *Tools: Power BI Desktop · DAX · Power Query · Microsoft Excel*
